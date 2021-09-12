@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my projects are available at **[My Repositories] https://github.com/kirtan18**
+- 👨‍💻 All of my projects are available at **[My Repositories] https://github.com/yukta22**
 
-- 📫 How to reach me -**kirtanprajapati6602@gmail.com**
+- 📫 How to reach me -**yuktasaraiya@gmail.com**
 
 - ⚡ Life fact - **Escaping From the Rat race to build My own Empire.**
 
@@ -39,8 +39,8 @@
 
 
    <p align="center">
-    <a href="https://github.com/kirtan18/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kirtan s streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtan18&"                    alt="kirtan18&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/yukta22/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yukta s streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yukta22&"                    alt="yukta22&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -48,28 +48,27 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/kirtan18/github-readme-stats"><img alt="Subham 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kirtan18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kirtan18/github-readme-stats"><img alt="Kirtan 's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/yukta22/github-readme-stats"><img alt="Subham 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yukta22&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/yukta22/github-readme-stats"><img alt="Yukta 's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukta22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 <br/>
 <br/>
 
-<a href="https://github.com/kirtan18/github-readme-activity-graph"><img alt="Kirtan 's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirtan18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/yukta22/github-readme-activity-graph"><img alt="Yukta 's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yukta22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/kirtan prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtan prajapati" height="30" width="40" /></a>
-<a href="https://instagram.com/k_i_t_u_prajapati95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_i_t_u_prajapati95" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kirtanprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirtanprajapati" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yukta-saraiya-b536171b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yukta Saraiya" height="30" width="40" /></a>
+<a href="https://leetcode.com/YuktaSaraiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yukta Saraiya" height="30" width="40" /></a>
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kirtan18">
+    <img src="https://komarev.com/ghpvc/?username=yukta22">
 </a>
-<a href="https://github.com/kirtan18?tab=followers"><img src="https://img.shields.io/github/followers/kirtan18?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/yukta22?tab=followers"><img src="https://img.shields.io/github/followers/yukta22?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
